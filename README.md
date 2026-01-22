@@ -1,5 +1,5 @@
-# Nuxt Minimal Starter
 
+<<<<<<< HEAD
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
@@ -76,3 +76,5 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 
 # sheria-news
 Kenyan legal news agreggator.
+=======
+>>>>>>> 7bd14983d01c54eff61c1bb41cae65fa861ec161
