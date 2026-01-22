@@ -1,0 +1,1 @@
+export { default } from "file:///home/ithima-valley/Downloads/Sheria-News/sheria-news/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
